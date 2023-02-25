@@ -5,16 +5,21 @@
   background-color: black;
   display : flex;
   align-items : center;
+  padding-left: 1cm;
+  text-align: left;
+  font-family: "Arial";
+  font-size: 16px;
+  color: #ffffff;
 }
 
 body
 {
-    color: #333;
+    color: #681a1a;
     text-align: left;
     font-family: "Arial";
-    font-size: 16px;
+    font-size: 14px;
+    text-colo
     margin: 0;
-    padding: 0;
 }
 
 #container
@@ -24,6 +29,7 @@ body
     text-align: left;
     border: 1px solid #ddd
     margin: 0 auto
+    padding-left: 1cm;
 }
 
 #container h1
